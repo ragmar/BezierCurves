@@ -24,7 +24,7 @@ And the dll should be include on the compilation folder, in "BezierCurves/Tarea 
 
 Here is an image of the application
 
-![alt tag] (./Screenshot/BezierCurve.jpg)
+![alt tag](./Screenshot/BezierCurve.jpg)
 
 
    [video]: <https://vimeo.com/37664294>
